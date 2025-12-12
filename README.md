@@ -37,12 +37,6 @@ Dataset downloaded from Kaggle:
 - 🏆 Top 5 Cities by Rides / Revenue  
 - ⚠️ Bottom 5 Cities by Rides / Revenue
 
-📷 Dashboard Preview
-
-(Upload your image here using this format)
-
-![Uber Dashboard](uber_dashboard_preview.png)
-
 📚 Insights You Can Get
 
 - Which cities generate the most rides and revenue  
@@ -55,3 +49,4 @@ Dataset downloaded from Kaggle:
 
 This Uber Dashboard provides a clear, interactive view of ride data across multiple dimensions.  
 It helps understand operational trends, optimize performance, and support strategic decision-making using data.
+
